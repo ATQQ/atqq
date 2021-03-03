@@ -14,3 +14,7 @@
 <a href="https://github.com/atqq/easypicker-webpack">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=easypicker-webpack" />
 </a>
+
+<a href="https://github.com/atqq/resume">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=resume" />
+</a>
