@@ -11,10 +11,14 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=sugar-blog" />
 </a>
 
-<a href="https://github.com/atqq/easypicker-webpack">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=easypicker-webpack" />
+<a href="https://github.com/atqq/demos">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=demos" />
 </a>
 
 <a href="https://github.com/atqq/resume">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=resume" />
+</a>
+
+<a href="https://github.com/atqq/node-server">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=node-server" />
 </a>
