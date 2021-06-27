@@ -34,3 +34,7 @@
 <a href="https://github.com/atqq/uni-app-template">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=uni-app-template" />
 </a>
+
+<a href="https://github.com/atqq/uni-vue3-ts-template">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=uni-vue3-ts-template" />
+</a>
