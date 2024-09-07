@@ -37,13 +37,3 @@
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/github/explore/blob/main/topics/node/node.png"><img height="20" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
 </p>
 
-### Some Projects
-
-<a href="https://github.com/atqq/sugar-blog">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=sugar-blog" />
-</a>
-
-
-<a href="https://github.com/atqq/uni-vue3-ts-template">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=atqq&repo=uni-vue3-ts-template" />
-</a>
