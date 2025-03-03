@@ -16,7 +16,7 @@
             <ul>
                 <li>🤭 Hi, I’m sugar. Nicknamed “粥里有勺糖”</li>
                 <li>🔭 I’m interested in coding and exploring new technologies.</li>
-              <li>🏥 近期生病了=> https://github.com/ATQQ/sugar-blog/issues/337 </li>
+              <li>🏥 近期生病了，低频率更新内容 => https://github.com/ATQQ/sugar-blog/issues/337 </li>
               <li>💰 I’m currently working on front-end development in <a href="https://github.com/meituan">Meituan</a>.</li>
               <li>🔥 I’m currently developing on <a href="https://github.com/ATQQ/sugar-blog/tree/master/packages/theme">@sugarat/theme<a/>、<a href="https://github.com/ATQQ/easypicker2-client">easpicker</a>... </li>
                 <li>🌱 I believe “Coding can change the world” </li>
