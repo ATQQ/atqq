@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm <a href="https://sugarat.top/aboutme.html">sugar</a>
 
-**🏥 近期生病了，低频率更新内容 => https://github.com/ATQQ/sugar-blog/issues/337**
 
 
 <br/>
@@ -19,7 +18,7 @@
                 <li>🤭 Hi, I’m sugar. Nicknamed “粥里有勺糖”</li>
                 <li>🔭 I’m interested in coding and exploring new technologies.</li>
               <li>💰 I’m currently working on front-end development in <a href="https://github.com/meituan">Meituan</a>.</li>
-              <li>🔥 I’m currently developing on <a href="https://github.com/ATQQ/sugar-blog/tree/master/packages/theme">@sugarat/theme<a/>、<a href="https://github.com/ATQQ/easypicker2-client">easpicker</a>... </li>
+              <li>🔥 I’m currently developing on <a href="https://github.com/ATQQ/sugar-blog/tree/master/packages/theme">@sugarat/theme<a/>、<a href="https://github.com/ATQQ/echo-trails">echo-trails</a>... </li>
                 <li>🌱 I believe “Coding can change the world” </li>
                 <li>🏡 I have a private blog: <a href="https://sugarat.top" rel="nofollow">sugar'blog</a>, you're welcome to come!~ </li>
             </ul>
