@@ -5,16 +5,7 @@
 <br/>
 <br/>
 
-<table>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img align="center" name="ATQQ's github stats" src="https://github-readme-stats.vercel.app/api?username=atqq&show_icons=true" />
-      </a>
-    </td>
-<td align="left">
-            <div align="center">Recent</div>
-            <ul>
+<ul>
                 <li>🤭 Hi, I’m sugar. Nicknamed “粥里有勺糖”</li>
                 <li>🔭 I’m interested in coding and exploring new technologies.</li>
               <li>💰 I’m currently working on front-end development in <a href="https://github.com/meituan">Meituan</a>.</li>
@@ -22,9 +13,6 @@
                 <li>🌱 I believe “Coding can change the world” </li>
                 <li>🏡 I have a private blog: <a href="https://sugarat.top" rel="nofollow">sugar'blog</a>, you're welcome to come!~ </li>
             </ul>
-        </td>
-  </tr>
-</table>
 
 ### Languages & Tools
 
